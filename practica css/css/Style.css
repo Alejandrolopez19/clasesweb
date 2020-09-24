@@ -1,0 +1,78 @@
+@media (min-width: 601px) and (max-width: 1000px) {}
+
+body {
+	font-family: Arial,sans-serif
+	
+	background-image: url("https://as01.epimg.net/meristation/imagenes/2019/03/27/header_image/556398081553685425.jpg");
+	background-image: url("https://as01.epimg.net/meristation/imagenes/2019/03/27/header_image/556398081553685425.jpg");
+}
+
+
+h1 {
+	color: #FF000C;
+}
+
+article li {
+	color: #0D75F5;
+}
+
+article li strong { 
+    color: #4B12ED;
+ }
+ 
+ aside {
+ 	float: left;
+ 	width:30%;
+ 	clear: both;
+ }
+
+ section {
+ 	float: left;
+ 	width: 70%;
+ }
+ #formacion {
+ 	float: left;
+ 	width: 50%;
+
+ }
+
+ #experiencia {
+ 	float: left;
+ 	width: 50%;
+ }
+
+
+ article li.actual {
+ 	font-weight: bolder;
+ 	font size: 1.2em;
+
+ }
+ nav ul {
+ 	padding: 0;
+ }
+
+ nav ul li {
+ 	display: inline;
+
+ }
+ 
+ nav ul li a {
+ 	font-family: Arial;
+ 	font size:11px;
+ 	text-decoration:none;
+ 	float: left;
+ 	padding: 10px;
+ 	background-color: #2175bc;
+ 	color:#fff;
+ }
+
+
+ nav ul li a:hover {
+ 	background-color: #00F9E4;
+ 	margin-top: -2px;
+ 	padding-bottom: 12px;
+ }
+
+ footer {
+ 	clear: both;
+ }
